@@ -6,8 +6,8 @@
   "contributes": {
     "snippets": [
 	  {
-        "language": "powershell",
-        "path": "./powershell.json"
+        "language": "pwsh",
+        "path": "./ps1.json"
       },
     ]
   }
