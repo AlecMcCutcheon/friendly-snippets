@@ -6,7 +6,7 @@ Use your plugin manager of choice, e.g.
 
 ```lua
 -- Packer
-use "AlecMcCutcheon/friendly-snippets"
+use "AlecMcCutcheon/powershell-snippets"
 
 -- Plug
-Plug 'AlecMcCutcheon/friendly-snippets'
+Plug 'AlecMcCutcheon/powershell-snippets'
