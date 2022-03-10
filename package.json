@@ -6,7 +6,7 @@
   "contributes": {
     "snippets": [
 	  {
-        "language": "pwsh",
+        "language": "all",
         "path": "./ps1.json"
       },
     ]
