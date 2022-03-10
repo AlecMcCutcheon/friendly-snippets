@@ -20,7 +20,7 @@
         "path": "./snippets/c.json"
       },
 	  {
-        "language": "powershell",
+        "language": "ps1",
         "path": "./snippets/powershell.json"
       },
       {
